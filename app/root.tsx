@@ -48,7 +48,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           property="og:description"
           content="Turn your architectural visions into stunning renders instantly"
         />
-        <meta property="og:image" content="/logo.svg" />
+        <meta property="og:image" content="/banner.png" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
         <meta name="twitter:card" content="summary_large_image" />
@@ -60,7 +60,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           name="twitter:description"
           content="Turn your architectural visions into stunning renders instantly"
         />
-        <meta name="twitter:image" content="/logo.svg" />
+        <meta name="twitter:image" content="/banner.png" />
         <Meta />
         <Links />
       </head>
